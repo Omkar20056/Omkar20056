@@ -81,7 +81,11 @@
 
 ## 🗂️ Latest Public Repositories
 
-<!-- START_LATEST_REPOS -->\n\n- [**Omkar20056**](https://github.com/Omkar20056/Omkar20056) — No description added yet. (Language: Not specified, ⭐ 0)\n- [**CODESOFT**](https://github.com/Omkar20056/CODESOFT) — This  eposito y co tai s all tasks completed du i g my Web Developme t I te ship at CODESOFT (Language: HTML, ⭐ 0)\n\n_Last refreshed: 2026-11-15 UTC_\n<!-- END_LATEST_REPOS -->
+<!-- START_LATEST_REPOS -->
+
+_This section is updated automatically every day._
+
+<!-- END_LATEST_REPOS -->
 
 ---
 
