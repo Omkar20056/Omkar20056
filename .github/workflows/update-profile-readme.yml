@@ -17,7 +17,7 @@ jobs:
 
       - name: Update latest public repositories
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: Omkar20056
         run: |
           node <<'NODE'
@@ -26,18 +26,18 @@ jobs:
           async function main() {
             const username = process.env.GITHUB_USERNAME;
             const response = await fetch(
-              `https://api.github.com/users/${username}/repos?type=owner&sort=updated&per_page=100`,
+              \`https://api.github.com/users/\${username}/repos?type=owner&sort=updated&per_page=100\`,
               {
                 headers: {
                   Accept: 'application/vnd.github+json',
-                  Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+                  Authorization: \`Bearer \${process.env.GITHUB_TOKEN}\`,
                   'X-GitHub-Api-Version': '2022-11-28'
                 }
               }
             );
 
             if (!response.ok) {
-              throw new Error(`GitHub API request failed: ${response.status} ${response.statusText}`);
+              throw new Error(\`GitHub API request failed: \${response.status} \${response.statusText}\`);
             }
 
             const repos = (await response.json())
@@ -51,8 +51,8 @@ jobs:
                     ? repo.description.replace(/[\\r\\n]+/g, ' ').trim()
                     : 'No description added yet.';
                   const language = repo.language || 'Not specified';
-                  return `- [**${repo.name}**](${repo.html_url}) — ${description} (Language: ${language}, ⭐ ${repo.stargazers_count})`;
-                }).join('\\n')
+                  return \`- [**\${repo.name}**](\${repo.html_url}) — \${description} (Language: \${language}, ⭐ \${repo.stargazers_count})\`;
+                }).join('\n')
               : '_No public repositories found yet._';
 
             const start = '<!-- START_LATEST_REPOS -->';
@@ -67,7 +67,7 @@ jobs:
 
             const before = readme.slice(0, startIndex + start.length);
             const after = readme.slice(endIndex);
-            const next = `${before}\\n\\n${body}\\n\\n_Last refreshed: ${new Date().toISOString().slice(0, 10)} UTC_\\n${after}`;
+            const next = \`\${before}\n\n\${body}\n\n_Last refreshed: \${new Date().toISOString().slice(0, 10)} UTC_\n\${after}\`;
 
             if (next !== readme) {
               fs.writeFileSync('README.md', next);
