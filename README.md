@@ -101,12 +101,7 @@ _This section is updated automatically every day._
 
 ### 📈 Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/Omkar20056">
-    View my GitHub contribution activity
-  </a>
-</p>
----
+[**View My GitHub Contribution Activity →**](https://github.com/Omkar20056?tab=overview)
 
 ## 🌐 Connect With Me
 
