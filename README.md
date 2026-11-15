@@ -83,53 +83,21 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Omkar20056&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    width="495"
-  />
-</p>
-
-### ⭐ GitHub Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOmkar20056&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=blue" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/stars/Omkar20056?style=for-the-badge&label=STARS%20RECEIVED&color=yellow" alt="Stars Received" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Omkar20056&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-### 📈 Contribution & Commit Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar20056&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Omkar20056&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar20056&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    width="495"
-  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omkar20056&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Profile Trophies
+### 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Omkar20056&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Profile Trophies"
-    width="100%"
-  />
+  <a href="https://github.com/Omkar20056">
+    View my GitHub contribution activity
+  </a>
 </p>
+
 ---
 
 ## 🌐 Connect With Me
