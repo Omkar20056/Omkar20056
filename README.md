@@ -106,7 +106,6 @@ _This section is updated automatically every day._
     View my GitHub contribution activity
   </a>
 </p>
-
 ---
 
 ## 🌐 Connect With Me
