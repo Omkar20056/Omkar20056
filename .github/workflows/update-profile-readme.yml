@@ -59,12 +59,14 @@ jobs:
             const end = '<!-- END_LATEST_REPOS -->';
             const readme = fs.readFileSync('README.md', 'utf8');
 
-            if (!readme.includes(start) || !readme.includes(end)) {
-              throw new Error('README markers not found; refusing to overwrite content.');
+            const startIndex = readme.indexOf(start);
+            const endIndex = readme.indexOf(end);
+            if (startIndex === -1 || endIndex === -1 || endIndex < startIndex) {
+              throw new Error('README markers not found or out of order; refusing to overwrite content.');
             }
 
-            const before = readme.slice(0, readme.indexOf(start) + start.length);
-            const after = readme.slice(readme.indexOf(end));
+            const before = readme.slice(0, startIndex + start.length);
+            const after = readme.slice(endIndex);
             const next = `${before}\\n\\n${body}\\n\\n_Last refreshed: ${new Date().toISOString().slice(0, 10)} UTC_\\n${after}`;
 
             if (next !== readme) {
