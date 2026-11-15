@@ -51,8 +51,7 @@ jobs:
                     ? repo.description.replace(/[\\r\\n]+/g, ' ').trim()
                     : 'No description added yet.';
                   const language = repo.language || 'Not specified';
-                  return `- [**${repo.name}**](${repo.html_url}) — ${description}  \\
-  \`Language: ${language}` · ⭐ ${repo.stargazers_count}`;
+                  return `- [**${repo.name}**](${repo.html_url}) — ${description} (Language: ${language}, ⭐ ${repo.stargazers_count})`;
                 }).join('\\n')
               : '_No public repositories found yet._';
 
