@@ -83,10 +83,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkar20056&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar20056&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkar20056&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar20056&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 ### ⭐ GitHub Achievements
 
 <p align="center">
