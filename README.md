@@ -115,7 +115,9 @@ _This section is updated automatically every day._
   <a href="mailto:obhekne@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- Add your correct LinkedIn profile URL here when available -->
+  <a href="https://www.linkedin.com/in/omkarbhekane/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
