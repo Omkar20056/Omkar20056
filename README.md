@@ -83,12 +83,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar20056&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Omkar20056&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    width="495"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar20056&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 ### ⭐ GitHub Achievements
 
 <p align="center">
@@ -105,15 +106,30 @@
 ### 📈 Contribution & Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar20056&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar20056&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar20056&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="495"
+  />
 </p>
 
 ### 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omkar20056&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Omkar20056&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Profile Trophies"
+    width="100%"
+  />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
