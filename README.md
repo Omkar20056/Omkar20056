@@ -78,6 +78,13 @@
   </a>
 </p>
 
+
+## 🗂️ Latest Public Repositories
+
+<!-- START_LATEST_REPOS -->
+_This section updates automatically every day._
+<!-- END_LATEST_REPOS -->
+
 ---
 
 ## 📊 GitHub Analytics
