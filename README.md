@@ -1,36 +1,140 @@
-<h1 align="center">Hi 👋, I'm Omkar Bhekane</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Learning DSA, Python & AI/ML | Exploring Space Technology 🚀</h3>
+# 👋 Hi, I'm Omkar Bhekane!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar20056&label=Profile%20views&color=0e75b6&style=flat" alt="omkar20056" /> </p>
+<h3 align="center">B.Tech Computer Science Engineering Student | Aspiring Software Engineer | DSA & AI/ML Enthusiast 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar20056" alt="omkar20056" /></a> </p>
-
-- 🔭 I’m currently working on [Portfolio](https://github.com/Omkar20056/CODESOFT/tree/main/task1)
-
-- 🌱 I’m currently learning **Data Structure and Algorithm**
-
-- 👯 I’m looking to collaborate on [portfolio](https://github.com/Omkar20056/CODESOFT/tree/main/task1)
-
-- 🤝 I’m looking for help with [portfolio](https://github.com/Omkar20056/CODESOFT/tree/main/task1)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **obhekne@gmail.com**
-
-- ⚡ Fun fact **I am CSE Student**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omkar bhekane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar bhekane" height="30" width="40" /></a>
-<a href="https://instagram.com/omkxrr.155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkxrr.155" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Learning+Data+Structures+%26+Algorithms;Exploring+AI+%26+Machine+Learning;Building+Projects+and+Learning+Every+Day;Dreaming+Beyond+the+Stars+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omkar20056&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Omkar20056?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar20056&show_icons=true&locale=en&layout=compact" alt="omkar20056" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkar20056&show_icons=true&locale=en" alt="omkar20056" /></p>
+## 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar20056&" alt="omkar20056" /></p>
+- 🎓 B.Tech Computer Science Engineering student.
+- 💻 Aspiring Software Engineer passionate about technology and problem-solving.
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)**.
+- 🤖 Exploring **Python, Artificial Intelligence & Machine Learning**.
+- 🛠️ Building projects to strengthen my development skills.
+- 🚀 Interested in Space Technology, Rockets and ISRO missions.
+- 🤝 Open to collaborating on beginner-friendly development projects.
+- 📫 Reach me at: **obhekne@gmail.com**
 
+> "Great things take time. Every line of code is a step towards the bigger dream."
+
+---
+
+## 🧑‍💻 Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" alt="Programming Languages" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs" alt="Web Development" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" alt="Tools and Databases" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/Omkar20056/CODESOFT/tree/main/task1">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Portfolio Project" />
+        </a>
+      </p>
+      <p align="center">A personal portfolio website developed using HTML and CSS as part of my web development internship tasks.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧮 Calculator</h3>
+      <p align="center">
+        <a href="https://github.com/Omkar20056/CODESOFT/tree/main/task3">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Calculator Project" />
+        </a>
+      </p>
+      <p align="center">A calculator project built using HTML, CSS and JavaScript to practice frontend development.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Omkar20056/CODESOFT">
+    <img src="https://img.shields.io/badge/CODESOFT_Internship_Repository-181717?style=for-the-badge&logo=github" alt="CODESOFT Repository" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkar20056&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar20056&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+### ⭐ GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOmkar20056&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=blue" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/stars/Omkar20056?style=for-the-badge&label=STARS%20RECEIVED&color=yellow" alt="Stars Received" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Omkar20056&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+### 📈 Contribution & Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar20056&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+</p>
+
+### 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omkar20056&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Omkar20056">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/omkxrr.155">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:obhekne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <!-- Add your correct LinkedIn profile URL here when available -->
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Learn • Build • Improve • Repeat 🚀</b>
+</p>
+
+<p align="center">
+  <i>Building my skills today to create something meaningful tomorrow.</i>
+</p>
